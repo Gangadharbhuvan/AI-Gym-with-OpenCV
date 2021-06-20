@@ -5,6 +5,9 @@ Squats Count, using Computer vision library - OpenCV, and Mediapipe.
 This is based on Pose-Detection_Body_Values using mediapipe
 
 
+Mediapipe is an google AI framework. This is based on research paper by Google.
+
+
 Squats ![Here](https://github.com/Gangadharbhuvan/AI-Gym-with-OpenCV/blob/main/Squats_Count_with_Mediapipe/data/Squats_count.jpg)
 Photo by Ivan Samkov from Pexels
 
