@@ -12,9 +12,12 @@ Squats ![Here](https://github.com/Gangadharbhuvan/AI-Gym-with-OpenCV/blob/main/S
 Photo by Ivan Samkov from Pexels
 
 
+Using Pose Detection Body values to count Squats. ![Here](https://github.com/Gangadharbhuvan/AI-Gym-with-OpenCV/blob/main/Squats_Count_with_Mediapipe/data/Pose-Detection__Body_Values.jpeg)
+
+
 # To run the code
 
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 
 
 `python squats.py`
